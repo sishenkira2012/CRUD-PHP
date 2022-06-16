@@ -1,0 +1,35 @@
+*{
+    text-align: center;
+   
+    
+  
+}
+body{
+    background-image:url("img/artificial-intelligence-ge639519b9_1920.jpg");
+}
+
+.form-register{
+    width: 600px;
+    background-color: #24303c ;
+    padding: 10px;
+    margin: auto;
+    margin-top: 25px;
+    border-radius: 'calibri';
+   color:aliceblue;
+}
+.form-register h1{
+    font-size: 22px;
+    margin-bottom: 20px;
+    color: aliceblue;
+}
+.Controls{
+    width: 100%;
+    background: #24303c;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size:18px ;
+   
+}
